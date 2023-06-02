@@ -1,0 +1,48 @@
+body{
+  background-color: #04152D;
+}
+
+.app{
+  width: 100%;
+  padding: 25px;
+  margin: auto;
+}
+
+@media screen and (min-width:600px) {
+  .app{
+    width: 500px;
+  }
+}
+
+@media screen and (min-width:800px) {
+  .app{
+    width: 700px;
+  }
+}
+
+@media screen and (min-width:1000px) {
+  .app{
+    width: 900px;
+  }
+}
+
+
+@media screen and (min-width:1200px) {
+  .app{
+    width: 1100px;
+  }
+}
+
+@media screen and (min-width:1300px) {
+  .app{
+    width: 1300px;
+  }
+}
+
+
+@media screen and (min-width:1800px) {
+  .app{
+    width: 1600px;
+  }
+}
+

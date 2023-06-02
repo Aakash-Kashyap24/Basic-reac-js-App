@@ -1,0 +1,11 @@
+.showHere{
+    display: flex;
+    gap: 25px;
+    width: 100%;
+
+    flex-wrap: wrap;
+}
+
+.ProductPage{
+    width: 100%;
+}
