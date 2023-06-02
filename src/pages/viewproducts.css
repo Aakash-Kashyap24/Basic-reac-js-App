@@ -1,6 +1,7 @@
 .productsHere{
     display: flex;
     gap: 25px;
+    min-height: 100vh;
 }
 
 .img-h {
